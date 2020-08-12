@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [LLVM](https://llvm.org)
 - 👯 I’m currently learning [Swift](https://swift.org)
 - 🤔 I’m currently learning [frida.re](https://frida.re)
-- 📫 How to reach me: [About](https://kunnan.blog.csdn.net)
+- 📫 How to reach me: [About](https://blog.csdn.net/z929118967/article/details/107957165)
 
 
 
