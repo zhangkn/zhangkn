@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [About](https://blog.csdn.net/z929118967/article/details/107957165)
 
 
-
+[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://kunnan.blog.csdn.net)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerkunnan@gmail.com)](mailto:houshuai0816@gmail.com)
 
 
 # 工作经验 
