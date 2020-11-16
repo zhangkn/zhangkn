@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerkunnan@gmail.com)](mailto:houshuai0816@gmail.com)
 
 
+- 公众号【微信搜一搜：iOS逆向】
+
 # 工作经验 
 
 
