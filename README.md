@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 👋你好，欢迎 👻
 
 
-<img align="right" src="https://img-blog.csdnimg.cn/20210628165010364.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEwMTg5Nzk=,size_16,color_FFFFFF,t_70#pic_center" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangkn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 🔭 I’m currently working on [blog](https://kunnan.blog.csdn.net)
 - 🌱 I’m currently learning [LLVM](https://llvm.org)
