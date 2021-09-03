@@ -347,7 +347,7 @@ IOS开发工程师、Java程序员
 
   - 1、有前后端开发经验者:`熟悉Object-C、Swift、lua、java、js开发以及iOS&macOS应用逆向与安全。`
 
-    - 1 年的java开发经验，3年的iOS app 开发经验，2年的iOS&macOS 逆向开发经验
+    - 1 年的java开发经验，5年的iOS app 开发经验，2年的iOS&macOS 逆向开发经验
 
   - 2、近期的学习计划：x86和arm的指令集转换，参考Xcode模拟器的系统库;go 语言；常逛的技术论坛是http://iosre.com/。
 
