@@ -351,7 +351,6 @@ IOS开发工程师、Java程序员
 
   - 2、近期的学习计划：x86和arm的指令集转换，参考Xcode模拟器的系统库;go 语言；常逛的技术论坛是http://iosre.com/。
 
-  - 3 [实时更新的简历](https://github.com/zhangkn/zhangkn)、[整体的附件简历]( https://kunnan.github.io/resume/2018-11-07-Resume.pdf) 
 
 # 致谢
 
