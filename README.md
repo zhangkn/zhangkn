@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![微信搜一搜公众号：iOS逆向](https://img-blog.csdnimg.cn/20210628165010364.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEwMTg5Nzk=,size_16,color_FFFFFF,t_70#pic_center)
 
+<img src="https://img-blog.csdnimg.cn/df4d2424809a4f7089acca9e94c9de2b.jpg">
 
 
 ### 👋你好，欢迎 👻
